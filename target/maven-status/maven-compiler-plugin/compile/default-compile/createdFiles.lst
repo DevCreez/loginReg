@@ -1,0 +1,9 @@
+com\project\loginReg\config\WebSecurityConfig.class
+com\project\loginReg\models\User.class
+com\project\loginReg\repositories\UserRepository.class
+com\project\loginReg\repositories\RoleRepository.class
+com\project\loginReg\loginRegApplication.class
+com\project\loginReg\services\UserDetailsServiceImplementation.class
+com\project\loginReg\models\Role.class
+com\project\loginReg\services\UserService.class
+com\project\loginReg\controllers\UserController.class
